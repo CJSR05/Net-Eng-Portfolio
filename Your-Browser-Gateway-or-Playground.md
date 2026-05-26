@@ -2,14 +2,15 @@
 
 # Your Browser: Gateway to the Web or Playground for Hackers?
 
-![Your Browser — a shield protecting a web browser from digital threats](images/your-browser-gateway-or-playground.png)
+![Your Browser, a shield protecting a web browser from digital threats](images/your-browser-gateway-or-playground.png)
 
 *A shield protecting a web browser from digital threats like viruses, phishing, and malware. Image generated with Google Gemini.*
 
 Your web browser is your portal to the digital universe. It's where you work, shop, socialize, and consume endless cat videos. But with great power comes great vulnerability. While you're browsing, malicious actors are constantly probing for weaknesses, turning your trusted gateway into their personal playground.
 
 > "Security is a process, not a product."
-> — Bruce Schneier
+>
+> *Bruce Schneier*
 
 Staying vigilant is key. Let's pull back the curtain on the most common browser threats and learn how to defend our digital lives.
 
@@ -30,9 +31,10 @@ Staying vigilant is key. Let's pull back the curtain on the most common browser 
 Have you ever been tricked into liking a Facebook page or sharing an article you never intended to? You might have been a victim of **clickjacking**. This attack, also called a **UI Redress attack**, involves layering an invisible web page or element over a visible one.
 
 > Clickjacking is an interface-based attack in which a user is tricked into clicking on actionable content on a hidden website by clicking on some other content in a decoy website.
-> — OWASP
+>
+> *OWASP*
 
-- **How it Works:** An attacker loads a legitimate website (like your bank) in a transparent iframe and overlays it with a decoy page showing something enticing — like a "Click here to win a prize!" button. When you click the prize button, you are actually clicking the invisible button on the legitimate site, perhaps initiating a money transfer or changing your account settings.
+- **How it Works:** An attacker loads a legitimate website (like your bank) in a transparent iframe and overlays it with a decoy page showing something enticing, like a "Click here to win a prize!" button. When you click the prize button, you are actually clicking the invisible button on the legitimate site, perhaps initiating a money transfer or changing your account settings.
 
 ### Mitigation
 
@@ -43,8 +45,8 @@ Have you ever been tricked into liking a Facebook page or sharing an article you
 
 A **Man-in-the-Middle (MitM)** attack is exactly what it sounds like. An attacker secretly positions themself between you and the web server you're communicating with, allowing them to intercept, read, and even alter your communication.
 
-- **How it Works:** This is most common on unsecured public Wi-Fi networks (coffee shops, airports). The attacker sets up a rogue Wi-Fi hotspot with a convincing name (e.g., `Free_Airport_WiFi`). When you connect, all your traffic flows through their computer. Without encryption, they can see everything — passwords, credit card numbers, and personal messages.
-- **Impact:** Huge — from financial theft to complete identity takeover.
+- **How it Works:** This is most common on unsecured public Wi-Fi networks (coffee shops, airports). The attacker sets up a rogue Wi-Fi hotspot with a convincing name (e.g., `Free_Airport_WiFi`). When you connect, all your traffic flows through their computer. Without encryption, they can see everything, passwords, credit card numbers, and personal messages.
+- **Impact:** Huge, from financial theft to complete identity takeover.
 
 ### Mitigation
 
@@ -55,7 +57,7 @@ A **Man-in-the-Middle (MitM)** attack is exactly what it sounds like. An attacke
 
 Browser extensions can be incredibly useful, but they can also be a significant security risk. They often require broad permissions to function, and if a malicious one gets through, it has deep access to your browsing activity.
 
-- **How it Works:** An attacker creates a seemingly harmless extension — like a weather widget or file converter — but hides malicious code inside. This code can then inject ads, log your keystrokes, steal your cookies, or redirect your searches to malicious sites.
+- **How it Works:** An attacker creates a seemingly harmless extension, like a weather widget or file converter, but hides malicious code inside. This code can then inject ads, log your keystrokes, steal your cookies, or redirect your searches to malicious sites.
 - **Impact:** Data leakage, financial loss, and a seriously compromised browser.
 
 ### Mitigation

@@ -1,6 +1,6 @@
 # Network Engineering Portfolio
 
-**Author:** Charles Prestridge — U.S. Navy Veteran · Network Infrastructure Technician
+**Author:** Charles Prestridge, U.S. Navy Veteran · Network Infrastructure Technician
 **Focus:** CCNA · WGU Cloud & Network Engineering · Cybersecurity Fundamentals
 
 ---
@@ -9,22 +9,22 @@
 
 I'm **Charles Prestridge**, a U.S. Navy veteran transitioning my career into network engineering and cloud infrastructure. After years of service, I'm now applying the same discipline, attention to detail, and mission-first mindset to the world of enterprise networking and cybersecurity.
 
-I currently work as a **Network Infrastructure Technician** while pursuing my **Cisco Certified Network Associate (CCNA)** certification and a **B.S. in Cloud & Network Engineering** through **Western Governors University (WGU)**. This repository is my living, public-facing portfolio — a place to document what I'm learning, prove out concepts in writing, and share the technical breakdowns I've built along the way.
+I currently work as a **Network Infrastructure Technician** while pursuing my **Cisco Certified Network Associate (CCNA)** certification and a **B.S. in Cloud & Network Engineering** through **Western Governors University (WGU)**. This repository is my living, public-facing portfolio, a place to document what I'm learning, prove out concepts in writing, and share the technical breakdowns I've built along the way.
 
 ### What you'll find here
 
-Each article in this repo is a deliberate, citation-backed write-up on a core topic in modern network and security engineering — written to reinforce my own understanding and to be useful to anyone preparing for similar certifications or stepping into the same field.
+Each article in this repo is a deliberate, citation-backed write-up on a core topic in modern network and security engineering, written to reinforce my own understanding and to be useful to anyone preparing for similar certifications or stepping into the same field.
 
 ### What I'm focused on
 
-- **Networking fundamentals** — OSI, TCP/IP, routing, switching, subnetting, and modern SDN concepts
-- **Cybersecurity** — credential hygiene, MFA, EDR, Zero Trust, malware defense, and data handling policy
-- **Cloud & infrastructure** — hybrid backup strategies, DRaaS, and cloud-first network design
-- **Operations & leadership** — change management, workstation hardening, and building secure habits at scale
+- **Networking fundamentals**: OSI, TCP/IP, routing, switching, subnetting, and modern SDN concepts
+- **Cybersecurity**: credential hygiene, MFA, EDR, Zero Trust, malware defense, and data handling policy
+- **Cloud & infrastructure**: hybrid backup strategies, DRaaS, and cloud-first network design
+- **Operations & leadership**: change management, workstation hardening, and building secure habits at scale
 
 ---
 
-## Articles — Table of Contents
+## Articles: Table of Contents
 
 | # | | Article | Focus |
 |---|---|---------|-------|
@@ -44,11 +44,11 @@ Each article in this repo is a deliberate, citation-backed write-up on a core to
 
 ## Why This Portfolio Exists
 
-> "Tell me and I forget. Teach me and I remember. Involve me and I learn." — Benjamin Franklin
+> "Tell me and I forget. Teach me and I remember. Involve me and I learn.", Benjamin Franklin
 
-Writing forces clarity. Every article in this repository started as a study topic from my CCNA or WGU coursework, and the act of turning it into a publishable, reference-citing breakdown is what cements the concept in my own head. Each piece is meant to be the kind of explanation I wish I'd had when I first encountered the topic — clear, opinionated where it needs to be, and grounded in the real-world incidents and standards that shape the field.
+Writing forces clarity. Every article in this repository started as a study topic from my CCNA or WGU coursework, and the act of turning it into a publishable, reference-citing breakdown is what cements the concept in my own head. Each piece is meant to be the kind of explanation I wish I'd had when I first encountered the topic, clear, opinionated where it needs to be, and grounded in the real-world incidents and standards that shape the field.
 
-If you're a hiring manager, classmate, or fellow learner — welcome. I hope you find something here worth your time.
+If you're a hiring manager, classmate, or fellow learner, welcome. I hope you find something here worth your time.
 
 ---
 
