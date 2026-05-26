@@ -2,7 +2,9 @@
 
 # Not All Backups Are Created Equal: Your Guide to Smarter Data Protection
 
-> A shield guarding personal, business, and enterprise data.
+![Not All Backups Are Created Equal — a shield guarding personal, business, and enterprise data](images/not-all-backups-are-created-equal.png)
+
+*A shield guarding personal, business, and enterprise data. Image generated with Google Gemini.*
 
 We've all felt that heart-stopping moment: a critical file is gone, a hard drive clicks ominously, or a coffee mug takes a fatal dive onto a laptop. In our digital world, data isn't just important — it's the lifeblood of our businesses and personal lives.
 

@@ -2,7 +2,9 @@
 
 # The Digital Shapeshifters: Navigating the Evolving Landscape of Malware in 2025
 
-> A shapeshifting malware creature born from glowing code and data within a digital network.
+![The Digital Shapeshifters — a shapeshifting malware creature born from glowing code and data](images/the-digital-shapeshifters.png)
+
+*A shapeshifting malware creature born from glowing code and data within a digital network. Image generated with Google Gemini.*
 
 In the sprawling, interconnected digital ecosystem of 2025, the shadows are more active than ever. The cat-and-mouse game between cybercriminals and security professionals has escalated into an arms race, fueled by artificial intelligence, human psychology, and the ever-expanding attack surface of our hyper-connected world. Yesterday's defenses are today's digital Maginot Line — easily bypassed by adversaries who are more agile, sophisticated, and audacious.
 

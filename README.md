@@ -26,19 +26,19 @@ Each article in this repo is a deliberate, citation-backed write-up on a core to
 
 ## Articles — Table of Contents
 
-| # | Article | Focus |
-|---|---------|-------|
-| 1 | [Beyond the Firewall: The 23andMe Breach and the Alarming Power of a Single Stolen Password](Beyond-the-Firewall.md) | Credential stuffing · MFA · Incident analysis |
-| 2 | [Blueprint for Trust: The Pillars of a Modern Data Handling Policy](Blueprint-for-Trust.md) | Data governance · GDPR · CCPA · NIST SP 800-88 |
-| 3 | [Code Warriors, Assemble: Choosing Your Weapon in the World of Scripting](Code-Warriors-Assemble.md) | Python · Bash · PowerShell · JavaScript |
-| 4 | [Digital Exterminators: Choosing Your Weapon in the War Against Malware](Digital-Exterminators.md) | Malwarebytes · Norton Power Eraser · Kaspersky |
-| 5 | [Don't Just Announce It, Ace It: A Leader's Playbook for Change That Actually Works](Dont-Just-Announce-It-Ace-It.md) | Change management · Adoption · KPIs |
-| 6 | [Your PC is a Fortress: Are You Leaving the Front Gate Wide Open?](Fortifying-the-Front-Lines.md) | Workstation hardening · BitLocker · UAC · AppLocker |
-| 7 | [Not All Backups Are Created Equal: Your Guide to Smarter Data Protection](Not-All-Backups-Are-Created-Equal.md) | Hybrid cloud · DRaaS · 3-2-1-1-0 rule |
-| 8 | [The Digital Shapeshifters: Navigating the Evolving Landscape of Malware in 2025](The-Digital-Shapeshifters.md) | AI-driven malware · EDR · Deception technology |
-| 9 | [The Untapped Potential in Tomorrow's Network Engineers](The-Untapped-Potential.md) | SDN · Zero Trust · Talent strategy |
-| 10 | [Your Browser: Gateway to the Web or Playground for Hackers?](Your-Browser-Gateway-or-Playground.md) | XSS · Clickjacking · MitM · Browser security |
-| 11 | [Your Data's Guardian Angel: A Fun, Hands-On Guide to Backups](Your-Datas-Guardian-Angel.md) | Full vs. incremental backups · 3-2-1 rule |
+| # | | Article | Focus |
+|---|---|---------|-------|
+| 1 | <img src="images/beyond-the-firewall-1.png" width="120"> | [Beyond the Firewall: The 23andMe Breach and the Alarming Power of a Single Stolen Password](Beyond-the-Firewall.md) | Credential stuffing · MFA · Incident analysis |
+| 2 | <img src="images/blueprint-for-trust.png" width="120"> | [Blueprint for Trust: The Pillars of a Modern Data Handling Policy](Blueprint-for-Trust.md) | Data governance · GDPR · CCPA · NIST SP 800-88 |
+| 3 | <img src="images/code-warriors-assemble.png" width="120"> | [Code Warriors, Assemble: Choosing Your Weapon in the World of Scripting](Code-Warriors-Assemble.md) | Python · Bash · PowerShell · JavaScript |
+| 4 | <img src="images/digital-exterminators.png" width="120"> | [Digital Exterminators: Choosing Your Weapon in the War Against Malware](Digital-Exterminators.md) | Malwarebytes · Norton Power Eraser · Kaspersky |
+| 5 | <img src="images/dont-just-announce-it-ace-it.png" width="120"> | [Don't Just Announce It, Ace It: A Leader's Playbook for Change That Actually Works](Dont-Just-Announce-It-Ace-It.md) | Change management · Adoption · KPIs |
+| 6 | <img src="images/fortifying-the-front-lines.png" width="120"> | [Your PC is a Fortress: Are You Leaving the Front Gate Wide Open?](Fortifying-the-Front-Lines.md) | Workstation hardening · BitLocker · UAC · AppLocker |
+| 7 | <img src="images/not-all-backups-are-created-equal.png" width="120"> | [Not All Backups Are Created Equal: Your Guide to Smarter Data Protection](Not-All-Backups-Are-Created-Equal.md) | Hybrid cloud · DRaaS · 3-2-1-1-0 rule |
+| 8 | <img src="images/the-digital-shapeshifters.png" width="120"> | [The Digital Shapeshifters: Navigating the Evolving Landscape of Malware in 2025](The-Digital-Shapeshifters.md) | AI-driven malware · EDR · Deception technology |
+| 9 | <img src="images/the-untapped-potential.png" width="120"> | [The Untapped Potential in Tomorrow's Network Engineers](The-Untapped-Potential.md) | SDN · Zero Trust · Talent strategy |
+| 10 | <img src="images/your-browser-gateway-or-playground.png" width="120"> | [Your Browser: Gateway to the Web or Playground for Hackers?](Your-Browser-Gateway-or-Playground.md) | XSS · Clickjacking · MitM · Browser security |
+| 11 | <img src="images/your-datas-guardian-angel.png" width="120"> | [Your Data's Guardian Angel: A Fun, Hands-On Guide to Backups](Your-Datas-Guardian-Angel.md) | Full vs. incremental backups · 3-2-1 rule |
 
 ---
 

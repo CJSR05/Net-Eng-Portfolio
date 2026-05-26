@@ -2,7 +2,9 @@
 
 # Digital Exterminators: Choosing Your Weapon in the War Against Malware
 
-> A glowing shield defends against pixelated malware monsters.
+![Digital Exterminators — a glowing shield defends against pixelated malware monsters](images/digital-exterminators.png)
+
+*A glowing shield defends against pixelated malware monsters. Image generated with Google Gemini.*
 
 In the digital age, our devices are extensions of ourselves, holding everything from precious memories to financial data. But this digital world has a dark underbelly, teeming with malware — viruses, spyware, ransomware, and other malicious software designed to wreak havoc. While a good antivirus program is your frontline soldier, sometimes a stealthy intruder slips past the guards. When that happens, you need to call in a specialist: a dedicated **malware removal tool**.
 

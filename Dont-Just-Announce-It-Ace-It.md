@@ -2,7 +2,9 @@
 
 # Don't Just Announce It, Ace It: A Leader's Playbook for Change That Actually Works
 
-> From tangled wires to streamlined cloud computing.
+![Don't Just Announce It, Ace It — from tangled wires to streamlined cloud computing](images/dont-just-announce-it-ace-it.png)
+
+*From tangled wires to streamlined cloud computing. Image generated with Google Gemini.*
 
 Let's be real: the two words that can strike fear into the heart of any employee are *"new system."* It's a phrase often followed by visions of confusing training, broken workflows, and a general sense of "why are we doing this?" But what if it didn't have to be that way?
 

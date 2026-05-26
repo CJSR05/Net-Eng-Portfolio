@@ -2,7 +2,9 @@
 
 # Your Data's Guardian Angel: A Fun, Hands-On Guide to Backups
 
-> A digital angel guards a data fortress against a vortex of threats.
+![Your Data's Guardian Angel — a digital angel guards a data fortress against a vortex of threats](images/your-datas-guardian-angel.png)
+
+*A digital angel guards a data fortress against a vortex of threats. Image generated with Google Gemini.*
 
 We've all felt that heart-stopping moment. You search for a critical file — a project proposal, your resume, a year's worth of family photos — and it's just... gone. Whether it's a hard drive failure, an accidental deletion, or a dreaded ransomware attack, data loss can feel like a digital disaster. A 2021 report highlighted that **21% of people have never even made a backup**. But what if you had a time machine for your files?
 

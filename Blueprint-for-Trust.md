@@ -2,7 +2,9 @@
 
 # Blueprint for Trust: The Pillars of a Modern Data Handling Policy
 
-> A glowing, blueprint-style lock with data streams, symbolizing digital security.
+![Blueprint for Trust — a glowing, blueprint-style lock with data streams](images/blueprint-for-trust.png)
+
+*A glowing, blueprint-style lock with data streams, symbolizing digital security. Image generated with Google Gemini.*
 
 In the modern digital economy, data has evolved from a simple byproduct of business operations into one of the most valuable assets an organization can possess. However, this value is intrinsically linked to a profound responsibility. The manner in which an organization collects, stores, and manages sensitive information — from customer PII to proprietary business strategies — directly impacts client trust, operational security, and legal standing.
 

@@ -2,7 +2,9 @@
 
 # Code Warriors, Assemble: Choosing Your Weapon in the World of Scripting
 
-> Four futuristic code warriors, clad in armor detailed with glowing circuitry, select their digital weapons from a high-tech armory.
+![Code Warriors, Assemble — four armored code warriors choose digital weapons from an armory](images/code-warriors-assemble.png)
+
+*Four futuristic code warriors, clad in armor detailed with glowing circuitry, select their digital weapons from a high-tech armory. Image generated with Google Gemini.*
 
 In the vast kingdom of technology, scripting languages are the magic spells that automate the mundane, build the incredible, and manage the complex. They are the secret weapons of system administrators, the building blocks of the web for developers, and the trusty sidekicks of data scientists. But with so many powerful options like Python, Bash, PowerShell, and JavaScript, how do you choose your champion?
 

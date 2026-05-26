@@ -2,7 +2,9 @@
 
 # The Untapped Potential in Tomorrow's Network Engineers
 
-> Your next competitive edge isn't a technology — it's a generation.
+![The Untapped Potential — emerging network engineers as the next competitive edge](images/the-untapped-potential.png)
+
+*Your next competitive edge isn't a technology — it's a generation. Image generated with Google Gemini.*
 
 In today's hyper-competitive landscape, we're all searching for the next big thing to give us an edge. We invest millions in AI, cloud infrastructure, and cybersecurity, believing technology alone is the key to outpacing the competition. But what if our greatest untapped resource isn't a piece of hardware or a new software platform? What if it's the brilliant minds just now entering the workforce?
 

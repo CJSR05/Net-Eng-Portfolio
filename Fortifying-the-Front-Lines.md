@@ -2,7 +2,9 @@
 
 # Your PC is a Fortress. Are You Leaving the Front Gate Wide Open?
 
-> A desktop computer reimagined as a fortified medieval castle — complete with a drawbridge, moat, and towers.
+![Your PC is a Fortress — a desktop computer reimagined as a fortified medieval castle](images/fortifying-the-front-lines.png)
+
+*A desktop computer reimagined as a fortified medieval castle — complete with a drawbridge, moat, and towers. Image generated with Google Gemini.*
 
 In the sprawling digital landscape, your computer isn't just a tool; it's your castle. It holds your secrets, your work, your memories, and your money. Yet every day, millions of people leave the front gate unlocked, the watchtowers unmanned, and secret tunnels exposed for any digital marauder to waltz right in. We install antivirus software and think the job is done — but true security isn't a product you buy. It's a fortress you build.
 

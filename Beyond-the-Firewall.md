@@ -2,7 +2,9 @@
 
 # Beyond the Firewall: The 23andMe Breach and the Alarming Power of a Single Stolen Password
 
-> A single stolen password acts as a key, unlocking a vast, interconnected network of sensitive genetic data.
+![Beyond the Firewall — a stolen password unlocking a network of sensitive genetic data](images/beyond-the-firewall-1.png)
+
+*A single stolen password acts as a key, unlocking a vast, interconnected network of sensitive genetic data.*
 
 ## Introduction
 
@@ -55,6 +57,20 @@ The 23andMe breach is a stark reminder that as we entrust our most personal info
 1. Hunt, Troy. General commentary on password reuse, widely attributed and reflected in his work on HaveIBeenPwned.com.
 2. Cybersecurity & Infrastructure Security Agency (CISA). "Multi-Factor Authentication (MFA)." cisa.gov.
 3. Stone, Steve. Quoted in "6.9 Million 23andMe Users Affected by Data Breach." *The HIPAA Journal*, December 5, 2023.
+
+---
+
+## Visual Reference
+
+The original write-up included additional companion visuals documenting the breach narrative:
+
+![Beyond the Firewall — visual 2](images/beyond-the-firewall-2.png)
+
+![Beyond the Firewall — visual 3](images/beyond-the-firewall-3.png)
+
+![Beyond the Firewall — visual 4](images/beyond-the-firewall-4.png)
+
+![Beyond the Firewall — visual 5](images/beyond-the-firewall-5.png)
 
 ---
 

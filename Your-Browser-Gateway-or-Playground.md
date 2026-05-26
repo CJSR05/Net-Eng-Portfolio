@@ -2,7 +2,9 @@
 
 # Your Browser: Gateway to the Web or Playground for Hackers?
 
-> A shield protecting a web browser from digital threats like viruses, phishing, and malware.
+![Your Browser — a shield protecting a web browser from digital threats](images/your-browser-gateway-or-playground.png)
+
+*A shield protecting a web browser from digital threats like viruses, phishing, and malware. Image generated with Google Gemini.*
 
 Your web browser is your portal to the digital universe. It's where you work, shop, socialize, and consume endless cat videos. But with great power comes great vulnerability. While you're browsing, malicious actors are constantly probing for weaknesses, turning your trusted gateway into their personal playground.
 
